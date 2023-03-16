@@ -1,6 +1,6 @@
 # Diabetes-classification-model-Python
-Diabetes Classification Project: 
-Exploring the Dataset and Data Preprocessing
+Diabetes Classification Project:
+Exploring the Dataset and Data Preprocessing:
 
 Diabetes classification is an important task in healthcare to predict whether a patient has diabetes or not. In this project, we will explore a dataset of diabetes patients, preprocess the data, and build a classifier to predict diabetes. We will not write any code for this project.
 
