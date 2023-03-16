@@ -2,7 +2,7 @@
 Diabetes Classification Project:
 Exploring the Dataset and Data Preprocessing:
 
-Diabetes classification is an important task in healthcare to predict whether a patient has diabetes or not. In this project, we will explore a dataset of diabetes patients, preprocess the data, and build a classifier to predict diabetes. We will not write any code for this project.
+Diabetes classification is an important task in healthcare to predict whether a patient has diabetes or not. In this project, we will explore a dataset of diabetes patients, preprocess the data, and build a classifier to predict diabetes.
 
 Step 1: Reading the Data
 The first step in any machine learning project is to load the dataset. In this project, we will load the diabetes dataset using the pandas library. We use the read_csv() method to read the CSV file containing the diabetes dataset.
