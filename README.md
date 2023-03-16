@@ -28,4 +28,4 @@ Step 8: Evaluating the Classifier
 Finally, we evaluate the performance of the classifier on the test set. This gives an estimate of how well the classifier will perform on new, unseen data. We can use various metrics such as accuracy, precision, recall, and F1-score to evaluate the performance of the classifier.
 
 Conclusion
-In this project, we explored the diabetes dataset, preprocessed the data, and built a classifier to predict diabetes. We did not write any code but discussed the various steps involved in building a machine learning classifier. Diabetes classification is an important task in healthcare, and machine learning algorithms can be used to
+In this project, we explored the diabetes dataset, preprocessed the data, and built a classifier to predict diabetes. We did not write any code but discussed the various steps involved in building a machine learning classifier. Diabetes classification is an important task in healthcare, and machine learning algorithms can be used to predicte pateint and healthy person.
